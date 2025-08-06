@@ -16,12 +16,12 @@
 ## Flask
 * Routes
 * Templates
-** Template Variables/Tags
-** Template Conditionals and Loops
+  * Template Variables/Tags
+  * Template Conditionals and Loops
 * Route Variables
 * HTTP Requests
 * HTTP Request Types
-** Form Validation
+  * Form Validation
 * Cookies
 * Sessions
 * SQL Queries (using SQLite)
