@@ -1,40 +1,40 @@
 # Level-6-Info
 
-C#
-Variables
-Data Types
-Input/Output
-Conditionals
-Loops
-Lists and Arrays
-Methods
-Classes and Objects
-abstraction
-encapsulation
-inheritance
-polymorphism
-Flask
-Routes
-Templates
-Template Variables/Tags
-Template Conditionals and Loops
-Route Variables
-HTTP Requests
-HTTP Request Types
-Form Validation
-Cookies
-Sessions
-SQL Queries (using SQLite)
-APIs (using others' APIs, creating your own endpoints)
-Version Control
-User Creation & Authentication
-Web Security
-SQL Injection
-XSS (Cross Site Scripting)
-Remote File Inclusion
-Cross Site Request Forgery
-Deployment
-Web Sockets
+## C#
+* Variables
+* Data Types
+* Input/Output
+* Conditionals
+* Loops
+* Lists and Arrays
+* Methods
+* Classes and Objects
+** abstraction
+** encapsulation
+** inheritance
+** polymorphism
+## Flask
+* Routes
+* Templates
+** Template Variables/Tags
+** Template Conditionals and Loops
+* Route Variables
+* HTTP Requests
+* HTTP Request Types
+** Form Validation
+* Cookies
+* Sessions
+* SQL Queries (using SQLite)
+* APIs (using others' APIs, creating your own endpoints)
+* Version Control
+* User Creation & Authentication
+* Web Security
+** SQL Injection
+** XSS (Cross Site Scripting)
+** Remote File Inclusion
+** Cross Site Request Forgery
+* Deployment
+* Web Sockets
 
 You 6:15 PM
 1. SQL Injection:
